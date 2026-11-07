@@ -447,6 +447,7 @@ pub fn is_valid_domain(domain: &str) -> bool {
         "home",
         "corp",
         "intranet",
+        "intra",
         "private",
         "localdomain",
     ];
